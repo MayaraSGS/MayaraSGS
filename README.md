@@ -3,6 +3,7 @@
 <img src="https://i.imgur.com/5bj12Ex.png" style="width: 100%; height: 300px" />
 
 <br>
+# Sobre Mim 😄
 - Geek apaixonada por tecnologia e ficção, me considero alguém curiosa o suficiente para buscar até como o mais mínimo dos mecanismos funcionam, determinada que sabe que com perseverança e esforço tudo pode ser alcançado e com facilidade de aprendizagem que amar mais das diversas vertentes da tecnologia o que me faz sempre está em busca de constante evolução, seja pessoal ou profissional.
 <br>
   
@@ -29,10 +30,10 @@
 </div>
 <br>
   
-- Contato
+# Contato
 <div> 
   <a href = "mailto:contato@m4ysgs.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/sg-mayara/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/sg-mayara/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/MayaraSGS/MayaraSGS/blob/output/github-contribution-grid-snake.svg)
  
