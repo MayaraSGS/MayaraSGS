@@ -1,6 +1,6 @@
 <h1 style="text-align: center;"> Ola, sou a Mayara! 👋 </h1>
 
-<img src="https://i.imgur.com/Yhu5dnM.jpg" style="width: 100%; height: 400px" />
+<img src="https://i.imgur.com/5bj12Ex.png" style="width: 100%; height: 300px" />
 
 <p style="text-align: justify;">
  Geek apaixonada por tecnologia e ficção, me considero alguém curiosa o suficiente para buscar até como o mais mínimo dos mecanismos funcionam, determinada que sabe que com perseverança e esforço tudo pode ser alcançado e com facilidade de aprendizagem que amar mais das diversas vertentes da tecnologia o que me faz sempre está em busca de constante evolução, seja pessoal ou profissional.
