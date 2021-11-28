@@ -22,16 +22,17 @@
   <img align="center" alt="rada-Js" height="30" widht="40" src="https://img.shields.io/badge/-html-DD0031?style=flat-square&logo=html">
 </div>
 
+<br>
 <div>
   <a href="https://github.com/MayaraSGS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayaraSGS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayaraSGS&layout=compact&langs_count=7&theme=dark"/>
 </div>
+<br>
   
-<hr>
+- Contato
 <div> 
- <a href="https://discord.gg/tnpE8Xh5" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contato@m4ysgs.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mayara-gomes-166b3a215" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/sg-mayara/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/MayaraSGS/MayaraSGS/blob/output/github-contribution-grid-snake.svg)
  
