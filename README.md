@@ -1,4 +1,4 @@
-### Ola, eu sou a Mayara, bem vindes ao meu GitHub! 👋
+<h1 class="center"> Ola, eu sou a Mayara! 👋 </h1>
 <hr>
 
 Desenvolvedora full stack, vejo os estudos como um primodial, sempre disposta a embacar em uma nova aventura, gosto de jogos e músicas e espero que com os trabalhos das minhas mãos posso ajudar nos problemas do nosso dia-a-dia.
