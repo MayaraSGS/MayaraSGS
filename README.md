@@ -1,7 +1,10 @@
-<h1 class="center"> Ola, eu sou a Mayara! 👋 </h1>
-<hr>
+<h1 style="text-align: center;"> Ola, sou a Mayara! 👋 </h1>
 
-Desenvolvedora full stack, vejo os estudos como um primodial, sempre disposta a embacar em uma nova aventura, gosto de jogos e músicas e espero que com os trabalhos das minhas mãos posso ajudar nos problemas do nosso dia-a-dia.
+<img src="https://i.imgur.com/9XYo8R6.jpg" atyle="width: 100%;" />
+
+<p style="text-align: justify">
+ Geek apaixonada por tecnologia e ficção, me considero alguém curiosa o suficiente para buscar até como o mais mínimo dos mecanismos funcionam, determinada que sabe que com perseverança e esforço tudo pode ser alcançado e com facilidade de aprendizagem que amar mais das diversas vertentes da tecnologia o que me faz sempre está em busca de constante evolução, seja pessoal ou profissional.
+</p>
 
  <div>
   <a href="https://github.com/MayaraSGS">
