@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/5bj12Ex.png" style="width: 100%; height: 300px" />
 
-## Geek apaixonada por tecnologia e ficção, me considero alguém curiosa o suficiente para buscar até como o mais mínimo dos mecanismos funcionam, determinada que sabe que com perseverança e esforço tudo pode ser alcançado e com facilidade de aprendizagem que amar mais das diversas vertentes da tecnologia o que me faz sempre está em busca de constante evolução, seja pessoal ou profissional.
+- Geek apaixonada por tecnologia e ficção, me considero alguém curiosa o suficiente para buscar até como o mais mínimo dos mecanismos funcionam, determinada que sabe que com perseverança e esforço tudo pode ser alcançado e com facilidade de aprendizagem que amar mais das diversas vertentes da tecnologia o que me faz sempre está em busca de constante evolução, seja pessoal ou profissional.
 
  <div>
   <a href="https://github.com/MayaraSGS">
@@ -14,7 +14,6 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/Git.svg">
   <img align="center" alt="rada-Js" height="30" widht="40" src="https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032">
   <img align="center" alt="rada-Js" height="30" widht="40" src="https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717">
   <img align="center" alt="rada-Js" height="30" widht="40" src="https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F">
