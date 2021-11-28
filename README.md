@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"> Ola, sou a Mayara! 👋 </h1>
+# Ola, sou a Mayara! 👋
 
 <img src="https://i.imgur.com/5bj12Ex.png" style="width: 100%; height: 300px" />
 
@@ -11,11 +11,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayaraSGS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayaraSGS&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<hr>
+## Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+ <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/Git.svg">
 </div>
   
 <hr>
