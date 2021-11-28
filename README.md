@@ -1,9 +1,9 @@
 # Ola, sou a Mayara! 👋
 
 <img src="https://i.imgur.com/5bj12Ex.png" style="width: 100%; height: 300px" />
-
+<br>
 - Geek apaixonada por tecnologia e ficção, me considero alguém curiosa o suficiente para buscar até como o mais mínimo dos mecanismos funcionam, determinada que sabe que com perseverança e esforço tudo pode ser alcançado e com facilidade de aprendizagem que amar mais das diversas vertentes da tecnologia o que me faz sempre está em busca de constante evolução, seja pessoal ou profissional.
-
+<br>
  <div>
   <a href="https://github.com/MayaraSGS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayaraSGS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayaraSGS&layout=compact&langs_count=7&theme=dark"/>
